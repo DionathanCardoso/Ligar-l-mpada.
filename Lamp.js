@@ -15,6 +15,7 @@ function turnOnOrturnOff() {
 function LampadaQuebrada(){
    
    lampada.src = "./img/quebrada.jpg"
+   turnOn.innerHTML = "Quebrou"
 }
 
 function LampadaInteira(){
